@@ -164,15 +164,23 @@ Published the project files and documentation to maintain a structured and acces
 
 ## 📊 6. Power BI Dashboard
 
-The interactive dashboard provides an overview of customer shopping behavior through KPIs, customer segmentation, product performance, and revenue analysis.
+The Power BI report provides an interactive overview of consumer purchasing behaviour and business performance.
 
-### Dashboard Preview
+Page 1 – Consumer Shopping Overview
 
-**Customer Shopping Behavior Dashboard**
+Provides an overview of customer purchasing patterns through:
 
-![Customer Shopping Behavior Dashboard](Screenshots/Customer_Shopping_Behavior_Dashboard.png)
+Total purchases, revenue, customer count, and average purchase KPIs.
 
-*Note: Replace the image path above with your actual dashboard screenshot filename.*
+Revenue comparison across product categories.
+
+Discounted vs non-discounted purchase analysis.
+
+Customer subscription distribution.
+
+Revenue contribution by age group.
+
+Interactive filters for customer demographics and product categories.
 
 ---
 
